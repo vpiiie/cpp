@@ -1,4 +1,5 @@
 g++ -std=c++17 -o cpp FibonachiNumberCalculator.cpp
+
 ./cpp
 вот мой вывод:
 leralipnickaa@Leras-MacBook-Air cpp % g++ -std=c++17 -o cpp 9.cpp
